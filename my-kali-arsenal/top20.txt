@@ -1,0 +1,10 @@
+/usr/bin/nmap
+/usr/bin/sqlmap
+/usr/bin/wpscan
+/usr/bin/nikto
+/usr/bin/hydra
+/usr/sbin/john
+/usr/bin/hashcat
+/usr/bin/theharvester
+/usr/bin/whatweb
+/usr/bin/burpsuite
